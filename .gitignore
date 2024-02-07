@@ -1,0 +1,52 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+
+# Android specific
+/build/
+/app/build/
+/app/gradle/
+/app/.gradle/
+/app/gradle.properties
+/app/local.properties
+/app/gradlew
+/app/gradlew.bat
+
+# iOS specific
+/ios/Pods/
+/ios/Podfile.lock
+/ios/Flutter/Flutter.xcworkspace/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+
+# macOS specific
+/macos/Flutter/Flutter.xcworkspace/
+/macos/Flutter/Generated.xcconfig
+/macos/Flutter/App.framework
+/macos/Flutter/Flutter.framework
+/macos/Flutter/Flutter.podspec
+
+# Windows specific
+/windows/Flutter/ephemeral
+/windows/Flutter/flutter_assets/
+
+# Web specific
+/web/build/
+
+# VS Code specific
+.vscode/
+
+# Android Studio/IntelliJ specific
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Flutter package dependency management
+.pub-cache/
